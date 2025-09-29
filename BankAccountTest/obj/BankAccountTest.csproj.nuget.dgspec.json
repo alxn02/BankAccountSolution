@@ -121,9 +121,13 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
-            "MSTest": {
+            "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[3.6.4, )"
+              "version": "[3.0.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.2, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
