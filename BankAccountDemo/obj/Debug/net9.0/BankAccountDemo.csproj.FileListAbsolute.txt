@@ -1,0 +1,14 @@
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\bin\Debug\net9.0\BankAccountDemo.exe
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\bin\Debug\net9.0\BankAccountDemo.deps.json
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\bin\Debug\net9.0\BankAccountDemo.runtimeconfig.json
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\bin\Debug\net9.0\BankAccountDemo.dll
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\bin\Debug\net9.0\BankAccountDemo.pdb
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\BankAccountDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\BankAccountDemo.AssemblyInfoInputs.cache
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\BankAccountDemo.AssemblyInfo.cs
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\BankAccountDemo.csproj.CoreCompileInputs.cache
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\BankAccountDemo.dll
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\refint\BankAccountDemo.dll
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\BankAccountDemo.pdb
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\BankAccountDemo.genruntimeconfig.cache
+C:\Users\banks\OneDrive\Desktop\BankAccountSolution\BankAccountDemo\obj\Debug\net9.0\ref\BankAccountDemo.dll
