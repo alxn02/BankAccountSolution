@@ -1,18 +1,17 @@
-# BankAccountSolution
+#BankAccountSolution
 
-This repository contains the BankAccount demo console app and unit tests.
+## Overview
+This project has two c# projects:
 
-## Projects
+- **BankAccountDemo**: contains the BankAccount class.  
+- **BankAccountTest**: contains unit tests for BankAccount.
 
-1. **BankAccountDemo** 
-   - Contains the `BankAccount` class and `Program.cs` for demonstration.  
-
-2. **BankAccountTest**  
-   - Contains unit tests for the `BankAccount` class.  
-   - NOTE: Tests compile successfully but `dotnet test` on my setup is not discovering them. Build succeeds.
+## Files
+- BankAccountDemo/BankAccount.cs — main class  
+- BankAccountDemo/Program.cs — empty console app  
+- BankAccountTest/BankAccountTests.cs — unit tests  
 
 ## How to Run
-
-### Build the Solution
-```bash
-dotnet build
+- Open the solution in VS Code or Visual Studio.  
+- Build the solution.  
+- Run the tests in BankAccountTest to check the BankAccount class.
