@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+namespace BankAccountDemo
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // You can leave this empty
+            // The BankAccount class is what you’re testing
+        }
+    }
+}
